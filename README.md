@@ -1,2 +1,10 @@
-# ultralytics-yolov11-training
-ultralytics-yolov11-training
+# Ultralytics-Yolov11-Training  
+基于 YOLOv11 实现工人施工场景目标检测的项目仓库，用于识别工人、安全装备（头盔、背心等）、工具、设备等目标，辅助工地安全管理。  
+
+## 核心内容  
+- **模型**：采用 Ultralytics YOLOv11 框架  
+- **数据集**：自定义标注的施工场景图像，覆盖 9 类目标  
+- **流程**：包含数据配置（`data.yaml`）、模型训练（`train.py`）等关键环节  
+
+## 使用说明  
+后续补充训练启动命令、环境依赖、推理示例等  
